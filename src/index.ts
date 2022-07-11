@@ -1,5 +1,4 @@
 import express from "express"
-import { url } from "inspector"
 import { UrlController } from "./controller/UrlController"
 import { UrlModel } from "./database/model/Url"
 import { MongoConnection } from "./database/MongoConnection"
